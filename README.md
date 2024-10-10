@@ -1,2 +1,0 @@
-# Zoomcamp
-Data Zoomcamp
