@@ -14,7 +14,7 @@ st.write("""
 
 # Liste des caractéristiques et leurs contraintes
 feature_constraints = {
-    "ID": {"type": int, "min_id": 100000, "max_id": 999999},  # Noms propres pour ID
+    # "ID": {"type": int, "min_id": 100000, "max_id": 999999},  # Noms propres pour ID
     "CreditScore": {"type": int, "min_score": 300, "max_score": 850},  # Noms propres pour CreditScore
     "PaymentDelays": {"type": int, "min_delay": 0, "max_delay": 12},  # Noms propres pour PaymentDelays
     "EmployedMonths": {"type": int, "min_months": 0, "max_months": 480},  # Noms propres pour EmployedMonths
