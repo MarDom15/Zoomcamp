@@ -1,0 +1,10 @@
+cd C:\Users\marti\Desktop\flixtrain
+kubectl logs -l app=subscription
+curl -X POST http://localhost:9696
+kubectl get svc
+kubectl autoscale deployment subscription --name subscription-hpa --cpu-percent=20 --min=1 --max=3
+kubectl get hpa
+pip install requests
+kubectl get hpa subscription-hpa --watch
+C:\Users\marti\Desktop\flixtrain\homework_91.text
+doskey /history > C:\Users\marti\Desktop\flixtrain\homework_91.txt

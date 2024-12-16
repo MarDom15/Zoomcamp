@@ -1,0 +1,27 @@
+cd Desktop
+cd Flixbus
+cd flixbus
+cd flixtrain
+kubelet.exe
+choco install kubernetes-cli
+curl -LO https://dl.k8s.io/release/v1.32.0/bin/windows/amd64/kubectl.exe
+kubectl version --client
+curl.exe -Lo kind-windows-amd64.exe https://kind.sigs.k8s.io/dl/v0.25.0/kind-windows-amd64
+Move-Item .\kind-windows-amd64.exe c:\some-dir-in-your-PATH\kind.exe
+move .\kind-windows-amd64.exe c:\some-dir-in-your-PATH\kind.exe
+move "C:\Users\marti\Desktop\flixtrain\kind-windows-amd64.exe" "C:\Users\marti\Desktop\flixtrain\kind.exe"
+dir "C:\Users\marti\Desktop\flixtrain"
+kind --version
+kind create cluster
+kubectl get services
+cd C:\Users\marti\Desktop\dataof\machine-learning-zoomcamp\cohorts\2024\05-deployment\homework
+cd C:\Users\marti\Desktop\flixtrain
+kind load docker-image zoomcamp-model:3.11.5-hw10
+kubectl cluster-info
+kubectl cluster-info dump
+kubectl describe node kind-control-plane
+kubectl apply -f deployment.yaml
+kubectl get pods
+kubectl apply -f service.yaml
+kubectl port-forward service/subscription-service 9696:80
+doskey /history > C:\Users\marti\Desktop\flixtrain\homework_9.txt
