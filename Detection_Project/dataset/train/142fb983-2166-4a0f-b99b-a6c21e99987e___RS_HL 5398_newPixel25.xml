@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Potato___healthy</folder>
+	<filename>142fb983-2166-4a0f-b99b-a6c21e99987e___RS_HL 5398_newPixel25.JPG</filename>
+	<path>/home/student/Downloads/archive/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Potato___healthy/142fb983-2166-4a0f-b99b-a6c21e99987e___RS_HL 5398_newPixel25.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy_leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>21</ymin>
+			<xmax>246</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

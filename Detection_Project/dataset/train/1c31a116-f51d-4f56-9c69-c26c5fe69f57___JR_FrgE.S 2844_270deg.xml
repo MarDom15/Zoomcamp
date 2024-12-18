@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Apple___Black_rot</folder>
+	<filename>1c31a116-f51d-4f56-9c69-c26c5fe69f57___JR_FrgE.S 2844_270deg.JPG</filename>
+	<path>/home/student/Downloads/archive/new plant diseases dataset(augmented)/New Plant Diseases Dataset(Augmented)/train/Apple___Black_rot/1c31a116-f51d-4f56-9c69-c26c5fe69f57___JR_FrgE.S 2844_270deg.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BlackRot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>11</ymin>
+			<xmax>246</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

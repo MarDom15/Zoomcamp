@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tomato_bacterialspot</folder>
+	<filename>e895970c-cab7-4175-b8c1-4b62320dbbb5___GCREC_Bact.Sp 6108.JPG</filename>
+	<path>/home/student/Schreibtisch/eval/tomato_bacterialspot/e895970c-cab7-4175-b8c1-4b62320dbbb5___GCREC_Bact.Sp 6108.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomato_bacterialspot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>5</ymin>
+			<xmax>241</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Healthy_leaf</folder>
+	<filename>b35b9f8b-daca-4d12-a5be-defe68d0acc5___RS_HL 1903_180deg.JPG</filename>
+	<path>/home/student/Schreibtisch/eval/Healthy_leaf/b35b9f8b-daca-4d12-a5be-defe68d0acc5___RS_HL 1903_180deg.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy_leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>11</ymin>
+			<xmax>226</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

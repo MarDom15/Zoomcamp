@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Potato___Late_blight</folder>
+	<filename>a7dad20a-b0c0-408b-a961-17928319e17f___RS_LB 4645.JPG</filename>
+	<path>/home/student/Downloads/archive/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Potato___Late_blight/a7dad20a-b0c0-408b-a961-17928319e17f___RS_LB 4645.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Late_blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>32</ymin>
+			<xmax>230</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

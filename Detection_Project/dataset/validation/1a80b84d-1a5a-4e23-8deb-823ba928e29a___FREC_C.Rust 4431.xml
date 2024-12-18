@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Apple___Cedar_apple_rust</folder>
+	<filename>1a80b84d-1a5a-4e23-8deb-823ba928e29a___FREC_C.Rust 4431.JPG</filename>
+	<path>/home/student/Downloads/archive/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Apple___Cedar_apple_rust/1a80b84d-1a5a-4e23-8deb-823ba928e29a___FREC_C.Rust 4431.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cedar_apple_rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>7</ymin>
+			<xmax>235</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

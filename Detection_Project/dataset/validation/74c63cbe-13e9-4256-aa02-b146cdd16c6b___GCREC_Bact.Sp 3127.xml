@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tomato___Bacterial_spot</folder>
+	<filename>74c63cbe-13e9-4256-aa02-b146cdd16c6b___GCREC_Bact.Sp 3127.JPG</filename>
+	<path>/home/student/Downloads/archive/new plant diseases dataset(augmented)/New Plant Diseases Dataset(Augmented)/train/Tomato___Bacterial_spot/74c63cbe-13e9-4256-aa02-b146cdd16c6b___GCREC_Bact.Sp 3127.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomato_bacterialspot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>6</ymin>
+			<xmax>228</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Potato___Early_blight</folder>
+	<filename>8435fd63-0136-44f9-8dd4-6ca27bcddd97___RS_Early.B 7017_flipTB.JPG</filename>
+	<path>/home/student/Downloads/archive/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Potato___Early_blight/8435fd63-0136-44f9-8dd4-6ca27bcddd97___RS_Early.B 7017_flipTB.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Early_blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>15</ymin>
+			<xmax>254</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

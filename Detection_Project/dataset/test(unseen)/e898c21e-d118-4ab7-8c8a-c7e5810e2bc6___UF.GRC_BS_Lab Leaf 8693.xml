@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tomato_bacterialspot</folder>
+	<filename>e898c21e-d118-4ab7-8c8a-c7e5810e2bc6___UF.GRC_BS_Lab Leaf 8693.JPG</filename>
+	<path>/home/student/Schreibtisch/eval/tomato_bacterialspot/e898c21e-d118-4ab7-8c8a-c7e5810e2bc6___UF.GRC_BS_Lab Leaf 8693.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomato_bacterialspot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>13</ymin>
+			<xmax>234</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

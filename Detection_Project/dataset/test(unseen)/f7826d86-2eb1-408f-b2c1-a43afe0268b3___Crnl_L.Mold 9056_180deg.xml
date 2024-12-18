@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tomato_leafmold</folder>
+	<filename>f7826d86-2eb1-408f-b2c1-a43afe0268b3___Crnl_L.Mold 9056_180deg.JPG</filename>
+	<path>/home/student/Schreibtisch/eval/tomato_leafmold/f7826d86-2eb1-408f-b2c1-a43afe0268b3___Crnl_L.Mold 9056_180deg.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomato_leafmold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>2</ymin>
+			<xmax>243</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

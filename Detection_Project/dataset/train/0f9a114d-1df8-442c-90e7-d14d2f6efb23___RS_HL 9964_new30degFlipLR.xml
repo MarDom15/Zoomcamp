@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tomato___healthy</folder>
+	<filename>0f9a114d-1df8-442c-90e7-d14d2f6efb23___RS_HL 9964_new30degFlipLR.JPG</filename>
+	<path>/home/student/Downloads/archive/new plant diseases dataset(augmented)/New Plant Diseases Dataset(Augmented)/train/Tomato___healthy/0f9a114d-1df8-442c-90e7-d14d2f6efb23___RS_HL 9964_new30degFlipLR.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomato_healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>17</ymin>
+			<xmax>216</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

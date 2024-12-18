@@ -1,0 +1,10 @@
+Healthy
+BlackRot
+Cedar_apple_rust
+Healthy_leaf
+Early_blight
+Late_blight
+tomato_bacterialspot
+tomato_healthy
+tomato_leafmold
+

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Late_blight</folder>
+	<filename>d2ff230f-99a5-4dc5-968c-246d772788af___RS_LB 3279_flipTB.JPG</filename>
+	<path>/home/student/Schreibtisch/eval/Late_blight/d2ff230f-99a5-4dc5-968c-246d772788af___RS_LB 3279_flipTB.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Late_blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>9</ymin>
+			<xmax>243</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

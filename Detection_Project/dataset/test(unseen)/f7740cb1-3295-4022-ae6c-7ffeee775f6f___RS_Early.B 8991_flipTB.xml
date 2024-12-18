@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Early_blight</folder>
+	<filename>f7740cb1-3295-4022-ae6c-7ffeee775f6f___RS_Early.B 8991_flipTB.JPG</filename>
+	<path>/home/student/Schreibtisch/eval/Early_blight/f7740cb1-3295-4022-ae6c-7ffeee775f6f___RS_Early.B 8991_flipTB.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Early_blight</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>10</ymin>
+			<xmax>256</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Early_blight</folder>
+	<filename>f15637d3-829d-46f9-b45e-1e1768d6b8c9___RS_Early.B 7635_180deg.JPG</filename>
+	<path>/home/student/Schreibtisch/eval/Early_blight/f15637d3-829d-46f9-b45e-1e1768d6b8c9___RS_Early.B 7635_180deg.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Early_blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>12</ymin>
+			<xmax>230</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

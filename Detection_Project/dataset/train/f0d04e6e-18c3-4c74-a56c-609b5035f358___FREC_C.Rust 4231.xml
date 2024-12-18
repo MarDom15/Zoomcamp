@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CedarAppleRust</folder>
+	<filename>f0d04e6e-18c3-4c74-a56c-609b5035f358___FREC_C.Rust 4231.JPG</filename>
+	<path>/home/student/Schreibtisch/Images_label/Apple/CedarAppleRust/f0d04e6e-18c3-4c74-a56c-609b5035f358___FREC_C.Rust 4231.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cedar_apple_rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>17</ymin>
+			<xmax>227</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

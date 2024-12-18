@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Apple___healthy</folder>
+	<filename>0e857e3d-34ff-4549-b8ef-4d699aacb178___RS_HL 7511.JPG</filename>
+	<path>/home/student/Downloads/archive/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Apple___healthy/0e857e3d-34ff-4549-b8ef-4d699aacb178___RS_HL 7511.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>12</ymin>
+			<xmax>236</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

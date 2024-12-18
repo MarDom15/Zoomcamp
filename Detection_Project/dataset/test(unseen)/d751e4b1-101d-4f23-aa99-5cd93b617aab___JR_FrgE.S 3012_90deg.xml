@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BlackRot</folder>
+	<filename>d751e4b1-101d-4f23-aa99-5cd93b617aab___JR_FrgE.S 3012_90deg.JPG</filename>
+	<path>/home/student/Schreibtisch/eval/BlackRot/d751e4b1-101d-4f23-aa99-5cd93b617aab___JR_FrgE.S 3012_90deg.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BlackRot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>46</ymin>
+			<xmax>217</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

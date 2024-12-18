@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BlackRot</folder>
+	<filename>fbd0bf3e-2260-4a97-be8a-af9cac60df7b___JR_FrgE.S 2807.JPG</filename>
+	<path>/home/student/Schreibtisch/Images_label/Apple/BlackRot/fbd0bf3e-2260-4a97-be8a-af9cac60df7b___JR_FrgE.S 2807.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BlackRot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>13</ymin>
+			<xmax>243</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

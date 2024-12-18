@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tomato___Leaf_Mold</folder>
+	<filename>097b050a-eaa4-4e4a-a30a-b72d1a4c0cc4___Crnl_L.Mold 8682_180deg.JPG</filename>
+	<path>/home/student/Downloads/archive/new plant diseases dataset(augmented)/New Plant Diseases Dataset(Augmented)/train/Tomato___Leaf_Mold/097b050a-eaa4-4e4a-a30a-b72d1a4c0cc4___Crnl_L.Mold 8682_180deg.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomato_leafmold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>21</ymin>
+			<xmax>228</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

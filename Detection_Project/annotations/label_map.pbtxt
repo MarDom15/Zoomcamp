@@ -1,0 +1,36 @@
+item {
+    id: 1
+    name: 'Healthy'
+}
+item {
+    id: 2
+    name: 'BlackRot'
+}
+item {
+    id: 3
+    name: 'Cedar_apple_rust'
+}
+item {
+    id: 4
+    name: 'Healthy_leaf'
+}
+item {
+    id: 5
+    name: 'Early_blight'
+}
+item {
+    id: 6
+    name: 'Late_blight'
+}
+item {
+    id: 7
+    name: 'tomato_bacterialspot'
+}
+item {
+    id: 8
+    name: 'tomato_healthy'
+}
+item {
+    id: 9
+    name: 'tomato_leafmold'
+}

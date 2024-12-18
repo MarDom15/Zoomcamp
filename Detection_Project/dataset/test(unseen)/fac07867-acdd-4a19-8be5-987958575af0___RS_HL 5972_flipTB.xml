@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Healthy</folder>
+	<filename>fac07867-acdd-4a19-8be5-987958575af0___RS_HL 5972_flipTB.JPG</filename>
+	<path>/home/student/Schreibtisch/eval/Healthy/fac07867-acdd-4a19-8be5-987958575af0___RS_HL 5972_flipTB.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>85</ymin>
+			<xmax>237</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

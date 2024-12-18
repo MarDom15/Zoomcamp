@@ -1,0 +1,22 @@
+#generate_TF_record_train
+python3 generate_tfrecord.py -x /home/student/Dokumente/TensorFlow/workspace/plantTraining3/images/train -l /home/student/Dokumente/TensorFlow/workspace/plantTraining3/annotations/label_map.pbtxt -o /home/student/Dokumente/TensorFlow/workspace/plantTraining3/annotations/train.record
+
+#generate_tf_record_test
+python3 generate_tfrecord.py -x /home/student/Dokumente/TensorFlow/workspace/plantTraining3/images/test -l /home/student/Dokumente/TensorFlow/workspace/plantTraining3/annotations/label_map.pbtxt -o /home/student/Dokumente/TensorFlow/workspace/plantTraining3/annotations/test.record
+
+#generate_tf_record_eval
+python3 generate_tfrecord.py -x home/student/Dokumente/TensorFlow/workspace/plantTraining3/annotations/eval -l /home/student/Dokumente/TensorFlow/workspace/plantTraining3/annotations/label_map.pbtxt -o /home/student/Dokumente/TensorFlow/workspace/plantTraining3/annotations/eval.record
+
+#train_tf
+python3 model_main_tf2.py --model_dir=models/my_ssd_mobilenet_v2_fpnlite_256x256 --pipeline_config_path=models/my_ssd_mobilenet_v2_fpnlite_256x256/pipeline.config
+
+# Eval
+python3 model_main_tf2.py --model_dir=models/my_ssd_mobilenet_v2_fpnlite_640x640 --pipeline_config_path=models/my_ssd_mobilenet_v2_fpnlite_640x640/pipeline.config --checkpoint_dir=models/my_ssd_mobilenet_v2_fpnlite_640x640
+
+## TFLite - Conversion
+python3 conversion.py
+# Export
+python3 export_tflite_graph_tf2.py --pipeline_config_path models/my_ssd_mobilenet_v2_fpnlite_640x640/pipeline.config --trained_checkpoint_dir models/my_ssd_mobilenet_v2_fpnlite_640x640 --output_directory exported-models
+
+# Meta daten schreiben
+python3 metadata_writer.py
